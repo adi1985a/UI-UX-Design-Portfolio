@@ -23,14 +23,6 @@ Each project folder contains:
 - **Design Process**: Insights into the design approach and methodologies used
 - **Tools Utilized**: Specific tools and features employed during the design process
 
-## 📸 Sample Works
-
-![Sample Design 1](F:\My Portafolio Graph design\projects\6.jpg)
-*Landing page design for a mobile application.*
-
-![Sample Design 2](F:\My Portafolio Graph design\projects\8.jpg)
-*E-commerce website UI mockup.*
-
 ## 📬 Contact
 
 For collaborations, inquiries, or to view more of my work, feel free to reach out:
