@@ -25,19 +25,19 @@ Each project folder contains:
 
 ## 📸 Sample Works
 
-![Sample Design 1](path/to/sample1.jpg)
+![Sample Design 1](F:\My Portafolio Graph design\projects\6.jpg)
 *Landing page design for a mobile application.*
 
-![Sample Design 2](path/to/sample2.png)
+![Sample Design 2](F:\My Portafolio Graph design\projects\8.jpg)
 *E-commerce website UI mockup.*
 
 ## 📬 Contact
 
 For collaborations, inquiries, or to view more of my work, feel free to reach out:
 
-- **Email**: [your.email@example.com](mailto:your.email@example.com)
-- **LinkedIn**: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/yourprofile)
-- **Portfolio Website**: [www.yourportfolio.com](https://www.yourportfolio.com)
+- **Email**: [adr.lesniak@gmail.com](mailto:adr.lesniak@gmail.com)
+- **LinkedIn**: [linkedin.com/in/adrian-lesniak-41029014a/](https://www.linkedin.com/in/adrian-lesniak-41029014a/)
+
 
 ---
 
